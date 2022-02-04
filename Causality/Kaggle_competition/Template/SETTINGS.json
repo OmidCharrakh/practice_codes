@@ -1,0 +1,10 @@
+{
+    "train_pairs_path": "/Users/omid/Documents/GitHub/Causality/Kaggle/Data/CEdata_train_pairs.csv",
+    "train_target_path": "/Users/omid/Documents/GitHub/Causality/Kaggle/Data/CEdata_train_target.csv",
+    "train_info_path": "/Users/omid/Documents/GitHub/Causality/Kaggle/Data/CEdata_train_publicinfo.csv",
+    "valid_pairs_path": "/Users/omid/Documents/GitHub/Causality/Kaggle/Data/CEdata_valid_pairs.csv",
+    "valid_info_path": "/Users/omid/Documents/GitHub/Causality/Kaggle/Data/CEdata_valid_publicinfo.csv",
+    "model_path": "/Users/omid/Documents/GitHub/Causality/Kaggle/Models/basic_python_benchmark.pickle",
+    "submission_path": "/Users/omid/Documents/GitHub/Causality/Kaggle/Submissions/basic_python_benchmark.csv",
+    "solution_path": "/Users/omid/Documents/GitHub/Causality/Kaggle/Submissions/basic_python_benchmark.csv"
+}
