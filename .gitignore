@@ -1,2 +1,11 @@
-
-.DS_Store
+# Byte-compiled / optimized / DLL files
+__pycache__/
+# Jupyter Notebook
+*.ipynb_checkpoints
+*.DS_Store
+*.Rproj.user
+*.Rhistory
+*.Rproj
+*.pdf
+*.jpg
+.Rproj.user
