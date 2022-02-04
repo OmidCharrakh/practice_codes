@@ -9,3 +9,4 @@ __pycache__/
 *.pdf
 *.jpg
 .Rproj.user
+.DS_Store
