@@ -1,3 +1,3 @@
-# Practice-Codes
+# Practice Codes
 
-This repo contains a set of practice codes coming from a diverse range of applications and research fields. This includes Causal Modeling, Deep Learning, Machine Learning, Data Analysis, and Computer Vision. 
+This repository contains a set of practical codes that I have gathered from diverse lectures and research fields. Among others, the codes cover areas in Causal Modeling, Deep Learning, Machine Learning, Data Analysis, and Computer Vision. 
